@@ -1,0 +1,144 @@
+/*** sectioning elements ***/
+
+body {
+background-color: #626a77 ;
+color: #ffffff;
+max-width: auto;
+margin-left: auto;
+margin-right: auto;
+text-align: center;
+}
+
+header {
+
+
+}
+
+main {
+
+}
+
+footer {
+
+}
+
+nav {
+
+}
+
+section {
+
+}
+
+aside {
+
+}
+
+
+/**** content styles ***/
+
+h1 {
+  max-width: auto;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 40px;
+  color: #ffffff;
+  text-align: center;
+  font-family: 'Jockey One', sans-serif;
+}
+
+h2 {
+  max-width: auto;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 21px;
+  color: #99b6db;
+  text-align: center;
+  font-family: 'Cuprum', sans-serif;
+}
+
+h3 {
+  max-width: auto;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 21px;
+  color: #000000;
+  text-align: center;
+
+}
+
+h4 {
+
+}
+
+h5 {
+
+}
+
+h6 {
+
+}
+
+p {
+  font-size: 17px;
+  font-family: 'Quattrocento', serif;
+
+}
+
+blockquote {
+
+}
+
+ol {
+
+}
+
+ul {
+background-color: #d8dde2;
+}
+
+li {
+
+}
+
+table {
+
+}
+
+tr {
+
+}
+
+th {
+
+}
+
+td {
+
+}
+
+
+/*** image styles ***/
+
+img  {
+
+}
+
+
+/*** link styles ***/
+
+a:link {
+  color: #254b89;
+}
+
+a:visited {
+  color: #0d2544;
+}
+
+a:hover {
+
+}
+
+a:active {
+
+}
