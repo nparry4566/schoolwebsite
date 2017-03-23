@@ -7,7 +7,7 @@ max-width: 960px;
 margin-left: auto;
 margin-right: auto;
 text-align: center;
-padding: 7px;
+padding: 3px;
 }
 
 header {
@@ -169,17 +169,17 @@ img  {
 /*** link styles ***/
 
 a:link {
-  color: #254b89;
+  color: white;
 }
 
 a:visited {
-  color: #0d2544;
+  color: white;
 }
 
 a:hover {
-
+color: #ffffff;
 }
 
 a:active {
-
+color: #ffffff;
 }
