@@ -1,13 +1,13 @@
 /*** sectioning elements ***/
 
 body {
-background-color: #626a77 ;
+background-color: #c60421 ;
 color: #ffffff;
 max-width: 960px;
 margin-left: auto;
 margin-right: auto;
 text-align: center;
-padding: 3px;
+padding: 20px;
 }
 
 header {
@@ -42,7 +42,7 @@ h1 {
   max-width: auto;
   margin-left: auto;
   margin-right: auto;
-  font-size: 40px;
+  font-size: 50px;
   color: #ffffff;
   text-align: center;
   font-family: 'Jockey One', sans-serif;
@@ -52,10 +52,11 @@ h2 {
   max-width: auto;
   margin-left: auto;
   margin-right: auto;
-  font-size: 21px;
-  color: #99b6db;
+  font-size: 24px;
+  color: #ffffff;
   text-align: center;
   font-family: 'Cuprum', sans-serif;
+  text-decoration: underline;
 }
 
 h3 {
@@ -95,7 +96,7 @@ ol {
 }
 
 ul {
-background-color: #d8dde2;
+background-color: #c60421;
 }
 
 li {
